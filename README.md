@@ -4,7 +4,7 @@
 [![](https://www.codewars.com/users/MaximoDouglas/badges/micro)](https://www.codewars.com/users/MaximoDouglas)
 
 ### About me
-- Computer Science baschelor
+- Bachelor of Computer Science
 - Working as a Software Engineer at [stantmob](https://github.com/stantmob)
 
 ### Tech stack
