@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white)](mailto:douglas.h.maximo@gmail.com)
 [![](https://www.codewars.com/users/MaximoDouglas/badges/micro)](https://www.codewars.com/users/MaximoDouglas)
 
-### Short CV
+### About me
 - Computer Science baschelor
 - Working as a Software Engineer at [stantmob](https://github.com/stantmob)
 
