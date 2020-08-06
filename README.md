@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Java](http://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Ruby](http://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
+![Ruby](http://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=red)
 ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
 
