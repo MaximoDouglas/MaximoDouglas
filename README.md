@@ -1,7 +1,8 @@
 ## Hello World, I'm Douglas!
 
 - Bachelor of Computer Science
-- Working as a Software Engineer at [stantmob](https://github.com/stantmob)
+- Working as a Software Engineer at [soluevo](https://www.linkedin.com/company/soluevo/)
+- Ex-[stantmob](https://www.linkedin.com/company/stant/) Software Engineer.
 
 ### Social
 [![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-maximo/) 
