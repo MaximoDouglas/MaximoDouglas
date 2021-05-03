@@ -1,7 +1,8 @@
 ## Hello World, I'm Douglas!
 
-- Bachelor of Computer Science
-- Working as a Software Engineer at [soluevo](https://www.linkedin.com/company/soluevo/)
+- Bachelor of Computer Science;
+- Working as a Tech Lead at [edge](https://www.linkedin.com/company/edge-inovacao/);
+- Working as a Software Engineer at [soluevo](https://www.linkedin.com/company/soluevo/);
 - Ex-[stantmob](https://www.linkedin.com/company/stant/) Software Engineer.
 
 ### Social
