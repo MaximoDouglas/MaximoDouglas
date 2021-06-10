@@ -2,8 +2,8 @@
 
 - Bachelor of Computer Science;
 - Tech Lead at [edge](https://www.linkedin.com/company/edge-inovacao/);
-- Software Engineer at [soluevo](https://www.linkedin.com/company/soluevo/);
-- Ex-[stantmob](https://www.linkedin.com/company/stant/) Software Engineer.
+- Ex-[soluevo](https://www.linkedin.com/company/soluevo/) Software Engineer;
+- Ex-[stant](https://www.linkedin.com/company/stant/) Software Engineer.
 
 ### Social
 [![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-maximo/) 
