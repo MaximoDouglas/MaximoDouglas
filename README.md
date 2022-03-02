@@ -1,6 +1,7 @@
 ## Hello World, I'm Douglas!
 
 - Bachelor of Computer Science;
+- Software Engineer at [CI&T](https://www.linkedin.com/company/ciandt/);
 - Tech Lead at [edge](https://www.linkedin.com/company/edge-inovacao/);
 - Ex-[soluevo](https://www.linkedin.com/company/soluevo/) Software Engineer;
 - Ex-[stant](https://www.linkedin.com/company/stant/) Software Engineer.
