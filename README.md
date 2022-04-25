@@ -18,11 +18,6 @@
 ![Ruby](http://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=red)
 
 ![Android](http://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
-
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=android-studio)
