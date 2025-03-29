@@ -13,6 +13,7 @@
 
 ### Tech stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=Ruby)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
 ![Java](http://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
