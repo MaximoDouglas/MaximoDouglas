@@ -21,3 +21,4 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=android-studio)
+![Azure Pipelines](http://img.shields.io/badge/-Azure-black?style=flat-square&logo=azure-devops)
